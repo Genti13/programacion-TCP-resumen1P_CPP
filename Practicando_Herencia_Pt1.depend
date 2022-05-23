@@ -1,21 +1,21 @@
 # depslib dependency file v1.0
-1653270460 source:e:\unlam\programacion & tcp\tcp\practicando_herencia_pt1\main.cpp
+1653271226 source:e:\unlam\programacion & tcp\tcp\practicando_herencia_pt1\main.cpp
 	<iostream>
 	"Alumno.h"
 	"Numero.h"
 
-1653265046 source:e:\unlam\programacion & tcp\tcp\practicando_herencia_pt1\persona.cpp
+1653273102 source:e:\unlam\programacion & tcp\tcp\practicando_herencia_pt1\persona.cpp
 	"Persona.h"
 
-1653264842 e:\unlam\programacion & tcp\tcp\practicando_herencia_pt1\persona.h
+1653271552 e:\unlam\programacion & tcp\tcp\practicando_herencia_pt1\persona.h
 	<stdlib.h>
 	<string.h>
 	"Fecha.h"
 
-1653264842 e:\unlam\programacion & tcp\tcp\practicando_herencia_pt1\fecha.h
+1653271148 e:\unlam\programacion & tcp\tcp\practicando_herencia_pt1\fecha.h
 	<iostream>
 
-1653263844 source:e:\unlam\programacion & tcp\tcp\practicando_herencia_pt1\fecha.cpp
+1653273060 source:e:\unlam\programacion & tcp\tcp\practicando_herencia_pt1\fecha.cpp
 	"Fecha.h"
 
 1653266638 e:\unlam\programacion & tcp\tcp\practicando_herencia_pt1\alumno.h

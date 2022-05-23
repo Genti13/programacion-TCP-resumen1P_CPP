@@ -22,6 +22,9 @@ public:
     Persona(std::string, unsigned, Fecha);
 
     friend std::ostream& operator<<(std::ostream& os, const Persona& persona);
+    friend std::istream& operator>>(std::istream& is, Persona& persona);
+
+    ~Persona();
 };
 
 

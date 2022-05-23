@@ -10,6 +10,12 @@ int main()
     cout << "Parte de HERENCIA" << endl;
     Persona persona1;
     Persona persona2("Alan Gentile", 24, Fecha(13,11,1997));
+    Persona persona3;
+
+    cout << "Ingresar Alumno: " <<endl;
+    cin >> persona3;
+    cout << "+++++++++++" <<endl;
+    cout <<"Usted Ingreso :" << persona3 << endl;
 
     cout << persona2 <<endl;
 

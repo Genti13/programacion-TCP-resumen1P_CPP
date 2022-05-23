@@ -36,3 +36,17 @@ std::ostream& operator<<(std::ostream& os, const Fecha& fecha)
 
     return os;
 }
+
+std::istream& operator>>(std::istream& is, Fecha& fecha)
+{
+    std::cout << "Ingresar el dia: ";
+    is >> fecha.dia;
+
+     std::cout << "Ingresar el mes: ";
+    is >> fecha.mes;
+
+     std::cout << "Ingresar el anio: ";
+    is >> fecha.anio;
+
+    return is;
+}
