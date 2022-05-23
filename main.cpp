@@ -27,11 +27,16 @@ int main()
     Numero num3 = num2 +5;
     Numero num4 = num2;
     Numero num5(num3);
+    Numero num6;
+    int a;
+
+    cin >> num6;
 
     cout << "Valor 1:" << num1 <<endl;
     cout << "Valor 2:" << num2 <<endl;
     cout << "Valor 3:" << num3 <<endl;
     cout << "Valor 4:" << num4 <<endl;
+    cout << "Valor 6:" << num6 <<endl;
 
     cout << endl;
 

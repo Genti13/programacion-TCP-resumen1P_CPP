@@ -23,6 +23,7 @@ public:
     bool operator==(const int&);
 
     friend std::ostream& operator<<(std::ostream& os, const Numero& val);
+    friend std::istream& operator>>(std::istream& os, Numero& numero);
 
     int getValue();
 

@@ -61,6 +61,12 @@ std::ostream& operator<<(std::ostream& os, const Numero& numero)
 
     return os;
 }
+std::istream& operator>>(std::istream& os, Numero& numero)
+{
+     os >> numero.numero;
+
+     return os;
+}
 
 int Numero::getValue()
 {
