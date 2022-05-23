@@ -3,7 +3,7 @@
 
 #include "Persona.h"
 
-class Alumno : public Persona
+class Alumno : public Persona //Aca decimos que hereda de Persona
 {
 private:
     long unsigned IdAlumno;

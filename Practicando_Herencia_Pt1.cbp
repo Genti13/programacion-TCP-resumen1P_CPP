@@ -32,7 +32,15 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="Alumno.h" />
+		<Unit filename="Fecha.h" />
+		<Unit filename="Numero.cpp" />
+		<Unit filename="Numero.h" />
+		<Unit filename="Persona.h" />
+		<Unit filename="alumno.cpp" />
+		<Unit filename="fecha.cpp" />
 		<Unit filename="main.cpp" />
+		<Unit filename="persona.cpp" />
 		<Extensions />
 	</Project>
 </CodeBlocks_project_file>
